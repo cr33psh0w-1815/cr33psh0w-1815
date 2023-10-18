@@ -1,14 +1,4 @@
-<style>
-  body {
-    background-color: black;
-    color: lime;
-    font-family: 'Courier New', monospace;
-  }
-  h1, h2, h3 {
-    border-bottom: 1px solid lime;
-    padding-bottom: 10px;
-  }
-</style>
+
 
 <div align="center">
   <h1>👾 Hi, I'm @cr33psh0w-1815</h1>
